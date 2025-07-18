@@ -29,3 +29,20 @@
   ...
   ...
 </div>
+
+<br>
+<br>
+
+---
+<!-- 💻 Background Videos -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=a1f9ff&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=How+to+Use" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  BASE_URL/P/?id=DISCORD_ID
+</p>
+
+<div align="center">
+📁 
+</div>
