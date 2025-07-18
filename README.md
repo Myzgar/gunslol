@@ -23,9 +23,9 @@
 </p>
 
 <div align="center">
-📁 bg1.webm<br>
-📁 bg2.webm<br>
-📁 bg3.webm<br>
+📁 bg/bg1.webm<br>
+📁 bg/bg2.webm<br>
+📁 bg/bg3.webm<br>
   ...
   ...
 </div>
