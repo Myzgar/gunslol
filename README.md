@@ -43,7 +43,7 @@
 </p>
 
 <div align="center">
-  📁 https://791dev.github.io/gunslol/p/?id=DISCORD_ID
+  📁 https://myzgar.github.io/gunslol/p/?id=DISCORD_ID
 </div>
 
 <br>
