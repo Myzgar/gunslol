@@ -60,7 +60,7 @@
 <div align="center">
   <a href="https://github.com/myzgar" target="_blank">
     <img 
-      src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/221500011?v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
+      src="https://images.weserv.nl/?url=avatars.githubusercontent.com/myzgar?v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
       width="125" 
       height="125" 
       title="Myzgar" 
@@ -69,7 +69,7 @@
   
   <a href="https://github.com/eqd5" target="_blank">
     <img 
-      src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/125457885??v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
+      src="https://images.weserv.nl/?url=avatars.githubusercontent.com/eqd5?v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
       width="125" 
       height="125" 
       title="Eqd5" 
