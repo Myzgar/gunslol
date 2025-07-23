@@ -65,9 +65,7 @@
       height="125" 
       title="Myzgar" 
     />
-  </a>
-  
-  <a href="https://github.com/eqd5" target="_blank">
+  </a> &nbsp; <a href="https://github.com/eqd5" target="_blank">
     <img 
       src="https://images.weserv.nl/?url=avatars.githubusercontent.com/eqd5?v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
       width="125" 
