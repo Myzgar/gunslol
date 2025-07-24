@@ -73,4 +73,12 @@
       title="Eqd5" 
     />
   </a>
+    </a> &nbsp; <a href="https://github.com/mermireal" target="_blank">
+    <img 
+      src="https://images.weserv.nl/?url=avatars.githubusercontent.com/mermireal?v=4&h=125&w=125&fit=cover&mask=circle&maxage=7d" 
+      width="125" 
+      height="125" 
+      title="Eqd5" 
+    />
+  </a>
 </div>
